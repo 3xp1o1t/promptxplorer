@@ -1,0 +1,13 @@
+Crear aplicacion PromptXplorer con Next.js
+
+1-. npx create-next-app@latest ./
+2-. npm install bcrypt mongodb mongoose next-auth (Dependencias para BD, login y cifrar pass).
+3-. Eliminar y recrear los folders.
+	* public
+	* models     (db con)
+	* components
+	* utils      (function files)
+	* styles
+4-. Rescribir el tailwind.config.js con el del gist.
+5-. Crear globals.css en styles basado en el gist.
+6-. Descargar los assets del gist.
