@@ -11,3 +11,5 @@ Crear aplicacion PromptXplorer con Next.js
 4-. Rescribir el tailwind.config.js con el del gist.
 5-. Crear globals.css en styles basado en el gist.
 6-. Descargar los assets del gist.
+7-. Terminada la configuracion del proyecto, lo subimos a github y
+apartir de ahi, seguimos la guia.
