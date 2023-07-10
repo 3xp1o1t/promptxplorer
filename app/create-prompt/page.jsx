@@ -8,7 +8,7 @@ import Form from '@components/Form'
 const CreatePrompt = () => {
 
   const router = useRouter();
-  const {data:sessoin} = useSession();
+  const { data:session } = useSession();
   const [submitting, setSubmitting] = useState(false);
   const [post, setPost] = useState({
     prompt: '',
